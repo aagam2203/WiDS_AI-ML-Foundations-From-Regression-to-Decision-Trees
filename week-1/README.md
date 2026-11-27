@@ -1,8 +1,5 @@
 # Week 1: Optimization, Linear Regression and Gradient Descent
 
-Part of **AI/ML Foundations: From Regression to Decision Trees**.
-The topic sequence follows IIT Bombay's [CS 217 course](https://www.cse.iitb.ac.in/~swaprava/cs217240_2024.html).
-
 ## Learning goals
 
 By the end of this week you should be able to:
